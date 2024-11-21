@@ -1,2 +1,2 @@
 # rivtexe
-portable rivt framework
+portable rivt framework for Windows
