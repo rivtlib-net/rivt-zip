@@ -1,2 +1,2 @@
-# rivtzip
+# rivtexe
 portable rivt framework
