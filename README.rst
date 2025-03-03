@@ -1,11 +1,10 @@
 rivtzip
 ========
 
-rivtzip is a portable complete framework for rivt. It includes:
+rivtzip is a portable rivt framework that can be copied and expanded to folder or flash drive. It includes:
 
-- Python and libraries
-- VSCode and extensions
-- Texlive
+- Python and rivt libraries
+- VSCode and rivt extensions
 - Git
 
 
