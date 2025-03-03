@@ -1,4 +1,4 @@
-rivt.zip
+rivtzip
 ========
 
 rivtzip is a portable complete framework for rivt. It includes:
